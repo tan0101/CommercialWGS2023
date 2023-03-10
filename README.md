@@ -1,4 +1,4 @@
-# CommercialWGS2023
+# Commercial_WGS2023
 
 "Host environment shapes resistance evolution and can promote widespread coexistence in commensal and pathogenic bacteria" by Michelle Baker, Xibin Zhang, Alexandre Maciel-Guerra, Kubra Babaarslan1, Yinping Dong, Wei Wang, Yujie Hu, David Renney, Longhai Liu, Hui Li, Zhiqin Tong,  Nicole Pearcy, Meimei Zhang, Yingzhi Geng, Li Zhao, Zhihui Hao,  Junshi Chen, Zixin Peng, Fengqin Li, and Tania Dottorini
 
