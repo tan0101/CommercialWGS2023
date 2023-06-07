@@ -123,7 +123,7 @@ def get_samples_distribution_for_chisquared(kmers_presence_vector, samples_df):
     weights = np.array(samples_df['weights'])
     for count, label in enumerate(labels):
         if label == 1:
-            if (kmers_presence_vector[count] == 0):
+            if (kmers_presence_vector[count] > 0):
                 with_pheno_with_kmer += weights[count] 
                 samples_w_kmer.append(ids[count])
             else:
