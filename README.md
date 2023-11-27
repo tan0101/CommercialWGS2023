@@ -2,6 +2,9 @@
 
 "Convergence of resistance and evolutionary responses in Escherichia coli and Salmonella enterica co-inhabiting chicken farms in China" by Michelle Baker, Xibin Zhang, Alexandre Maciel-Guerra, Kubra Babaarslan, Yinping Dong, Wei Wang, Yujie Hu, David Renney, Longhai Liu, Hui Li, Muhammad Hossain, Stephan Heeb, Zhiqin Tong,  Nicole Pearcy, Meimei Zhang, Yingzhi Geng, Li Zhao, Zhihui Hao,  Nicola Senin, Junshi Chen, Zixin Peng, Fengqin Li, and Tania Dottorini 
 
+![image](https://github.com/tan0101/Commercial_WGS2023/assets/16899328/97c7af81-8b51-4c48-8312-693177843781)
+
+
 Any questions should be made to the corresponding author Dr Tania Dottorini (Tania.Dottorini@nottingham.ac.uk)
 
 Nine scripts are available:
