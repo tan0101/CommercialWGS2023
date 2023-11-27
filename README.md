@@ -1,6 +1,6 @@
 # Commercial_WGS2023
 
-"Host environment shapes resistance evolution and can promote widespread coexistence in commensal and pathogenic bacteria" by Michelle Baker, Xibin Zhang, Alexandre Maciel-Guerra, Kubra Babaarslan1, Yinping Dong, Wei Wang, Yujie Hu, David Renney, Longhai Liu, Hui Li, Zhiqin Tong,  Nicole Pearcy, Meimei Zhang, Yingzhi Geng, Li Zhao, Zhihui Hao,  Junshi Chen, Zixin Peng, Fengqin Li, and Tania Dottorini
+"Convergence of resistance and evolutionary responses in Escherichia coli and Salmonella enterica co-inhabiting chicken farms in China" by Michelle Baker, Xibin Zhang, Alexandre Maciel-Guerra, Kubra Babaarslan, Yinping Dong, Wei Wang, Yujie Hu, David Renney, Longhai Liu, Hui Li, Muhammad Hossain, Stephan Heeb, Zhiqin Tong,  Nicole Pearcy, Meimei Zhang, Yingzhi Geng, Li Zhao, Zhihui Hao,  Nicola Senin, Junshi Chen, Zixin Peng, Fengqin Li, and Tania Dottorini 
 
 Any questions should be made to the corresponding author Dr Tania Dottorini (Tania.Dottorini@nottingham.ac.uk)
 
